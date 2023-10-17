@@ -3,6 +3,6 @@
 "ticker":"PNR39",
 "discordId":"447190679429447681",
 "pool-list":"true",
-"poolMetaData":"https://raw.githubusercontent.com/STRIXJPN/STRIXADA/main/poolMetaData.json",
-"validation":"https://raw.githubusercontent.com/STRIXJPN/STRIXADA/main/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/STRIXJPN/PNR39/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/STRIXJPN/PNR39/main/sjg-validation.json"
 }
